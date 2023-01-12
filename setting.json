@@ -1,0 +1,92 @@
+{
+  "editor.tabSize": 2,
+  "files.autoSaveDelay": 10,
+  "liveServer.settings.ChromeDebuggingAttachment": false,
+  "workbench.colorTheme": "Ayu Mirage Bordered",
+  "explorer.confirmDelete": false,
+  "breadcrumbs.enabled": true,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "workbench.iconTheme": "material-icon-theme",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.associations": {
+    "*.jsp": "jsx",
+    "*.java": "js",
+    "*.art": "html",
+    "*.cjson": "jsonc",
+    "*.wxss": "css",
+    "*.wxs": "javascript"
+  },
+  "emmet.includeLanguages": {
+    "wxml": "html"
+  },
+  "minapp-vscode.disableAutoConfig": true,
+  "less.compile": {
+    "outExt": ".wxss"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "diffEditor.ignoreTrimWhitespace": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "C_Cpp.updateChannel": "Insiders",
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.ignoreSelection": true,
+  "code-runner.fileDirectoryAsCwd": true,
+  "code-runner.runInTerminal": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "powermode.enabled": true,
+  "editor.linkedEditing": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "autoimport.filesToScan": "*.js",
+  "autoimport.showNotifications": true,
+  "autoimport.doubleQuotes": true,
+  "html.format.wrapAttributes": "force-aligned",
+  "wxmlConfig.format.wrapAttributes": "aligned-multiple",
+  "prettier.htmlWhitespaceSensitivity": "ignore",
+  "prettier.bracketSpacing": false,
+  "prettier.embeddedLanguageFormatting": "off",
+  "bracket-pair-colorizer-2.unmatchedScopeColor": "pink",
+  "bracket-pair-colorizer-2.colorMode": "Independent",
+  "indentRainbow.errorColor": "rgba(158, 100, 252, 0.052)",
+  "editor.minimap.enabled": false,
+  "powermode.shake.enabled": false,
+  "editor.mouseWheelScrollSensitivity": 0.5,
+  "tabnine.experimentalAutoImports": true,
+  "html.format.enable": false,
+  "minapp-vscode.wxmlFormatter": "prettyHtml",
+  "vetur.completion.autoImport": false,
+  "bookmarks.useWorkaroundForFormatters": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.stickyScroll.enabled": true,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.insertSpaces": false,
+  "editor.detectIndentation": false,
+  "editor.defaultFormatter": "whosydd.prettier-config",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "window.zoomLevel": -1
+}
